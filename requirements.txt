@@ -1,0 +1,4 @@
+django
+django-rest-framework
+argon2-cffi
+django-cors-headers

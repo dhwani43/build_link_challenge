@@ -1,0 +1,37 @@
+.view-modal{
+    .bx--modal-header{
+        padding-right: unset;
+        .bx--modal-header__heading{
+            font-weight: 600;
+        }
+    }
+    .bx--modal-content{
+        margin-bottom: 10px;
+        padding-right: 1rem;
+    }
+    .rowdata {
+        border: 2px solid #9e9de0;
+        padding: 10px;
+        margin: 1px;
+    }
+    .heading{
+        font-weight: 600;
+        text-align: left;
+    }
+    .detaildata{
+        text-align: left;
+    }
+}
+.table-title {
+    .bx--data-table-header__title{
+        font-weight: 500;
+        font-size: 2rem;
+    }
+}
+
+.check-mark{
+    color: green;
+}
+.close-icon{
+    color: gray;
+}

@@ -1,0 +1,21 @@
+.add-modal {
+    .bx--modal-header{
+        padding-right: unset;
+        .bx--modal-header__heading{
+            font-weight: 600;
+        }
+    }
+    .bx--modal-content{
+        margin-bottom: 10px;
+        padding-right: 1rem;
+    }
+    .some-class{
+        width: 30%;
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+        justify-content: center;
+        padding: unset;
+        border-radius: 5px;
+    }
+}
